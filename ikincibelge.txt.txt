@@ -3,3 +3,5 @@ yeni ilk satır
 asfdadh
 bir satır unutulmuş
 asad
+
+network özelliği

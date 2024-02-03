@@ -4,5 +4,6 @@ asfdadh
 bir satır unutulmuş
 asad
 
-network özelliği
+grafik ekle
+
 3d grafik
